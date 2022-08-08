@@ -15,4 +15,5 @@ I'm a professional skid who apparently likes cars too much and occasional rap mu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-311701?style=for-the-badge&color=1e1e2e&logoColor=74c7ec&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-311701?style=for-the-badge&color=1e1e2e&logo=typescript&logoColor=74c7ec)
 
+## GitHub Stats
 [![Dukeatron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dukeatron&show_icons=true&theme=radical&count_private=true&hide=prs,stars)](https://youtube.com/)
