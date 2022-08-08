@@ -2,6 +2,8 @@
 
 I'm a professional skid who apparently likes cars too much and occasional rap music. And hey! Welcome to my GitHub profile page!
 
+Port maintainer and dev for [Catppuccin](https://github.com/catppuccin)
+
 ## Tools I Use
 
 ![Neovim](https://img.shields.io/badge/-Neovim-311701?style=for-the-badge&color=1e1e2e&logo=neovim&logoColor=a6e3a1)
