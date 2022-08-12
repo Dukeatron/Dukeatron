@@ -7,16 +7,17 @@ Port maintainer and dev for [Catppuccin](https://github.com/catppuccin)
 ## Tools I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,neovim,vscode,linux,bash&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,neovim,vscode,linux,bash" />
   </a>
 </p>
 
 ## Languages I Use
 
-![Python](https://img.shields.io/badge/-Python-311701?style=for-the-badge&color=1e1e2e&logo=python&logoColor=f9e2af)
-![Rust](https://img.shields.io/badge/-Rust-311701?style=for-the-badge&color=1e1e2e&logo=rust&logoColor=74c7ec)
-![JavaScript](https://img.shields.io/badge/-JavaScript-311701?style=for-the-badge&color=1e1e2e&logoColor=74c7ec&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-Typescript-311701?style=for-the-badge&color=1e1e2e&logo=typescript&logoColor=74c7ec)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,rust,nodejs" />
+  </a>
+</p>
 
 ## GitHub Stats
 [![Dukeatron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dukeatron&show_icons=true&theme=radical&count_private=true&hide=prs,stars)](https://youtube.com/)
