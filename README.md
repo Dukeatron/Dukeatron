@@ -10,6 +10,8 @@ Port maintainer and dev for [Catppuccin](https://github.com/catppuccin)
 ![Bash](https://img.shields.io/badge/-Bash-311701?style=for-the-badge&color=1e1e2e&logo=gnu-bash&logoColor=bac2de)
 ![Docker](https://img.shields.io/badge/-Docker-311701?style=for-the-badge&color=1e1e2e&logo=docker&logoColor=74c7ec)
 
+[![My Skills](https://skillicons.dev/icons?i=bash,js,ts,docker,vim,rust&perline=3)](https://skillicons.dev)
+
 ## Languages I Use
 
 ![Python](https://img.shields.io/badge/-Python-311701?style=for-the-badge&color=1e1e2e&logo=python&logoColor=f9e2af)
