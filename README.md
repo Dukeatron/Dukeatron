@@ -1,6 +1,6 @@
 # Hey, I'm Duke
 
-I'm a ~~skid~~ guy who apparently likes cars too much and occasional rap music. And hey! Welcome to my GitHub profile page!
+I'm a guy who apparently likes cars too much and music. And hey! Welcome to my GitHub profile page!
 
 Port maintainer and dev for [Catppuccin](https://github.com/catppuccin)
 
